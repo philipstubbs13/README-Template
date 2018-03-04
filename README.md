@@ -11,7 +11,7 @@
   	* [Backend technologies](#Backend)
   	* [Frontend technologies](#Frontend)
   * [Design improvements](#design-improvements)
-  * [Issues](#issues)
+  * [Issues](#Issues)
 
 ## <a name="live"></a>Live
 If application has a graphical user interface, include a live link here.
@@ -45,7 +45,7 @@ Typical steps might include clone the repository, install Node.js, and install a
 
 ### <a name="step-three"></a> Step 3
 
-## <a name="project-structure></a> Structure of the project
+## <a name="project-structure"></a> Structure of the project
 This section gives a high level overview of the project file/directory structure.
 
 This information is particulary useful to a new user of the code/repository. It helps others using the code to get up to speed quickly on what the different directories and files contain. It also helps users of the code understand how the files communicate with and depend on one another.
